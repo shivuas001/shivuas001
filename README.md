@@ -47,14 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shivuas001&theme=dark&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=shivuas001&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivuas001&layout=compact&theme=dark)
-
----
-
 ## 📫 Connect With Me
 - 💼 Open to **Internships**
 - 🔗 Add your **LinkedIn link** here
