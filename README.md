@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shivu Kumar
+# 👋 Hi, I'm A SHIVA KUMAR
 
 🚀 3rd-year CSE student passionate about **Full-Stack Web Development**  
 🌱 Currently building a **MERN Stack E-commerce Application**  
