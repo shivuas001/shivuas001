@@ -36,6 +36,10 @@
 
 ---
 
+## 🔥 GitHub Streak  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shivuas001&theme=dark&hide_border=true)
+
 ## 🚀 Featured Project  
 
 ### 🛒 MERN Stack E-commerce Application  
@@ -49,9 +53,6 @@ A full-featured e-commerce platform developed using the MERN stack with secure a
 - 🧾 Order History & User Dashboard  
 - ⚙️ RESTful API Design  
 - 📦 MongoDB Database Management  
-
-#### 🛠️ Tech Used  
-React.js • Node.js • Express.js • MongoDB • Razorpay • Render  
 
 #### 📌 Highlights  
 - Designed and developed both frontend and backend independently  
@@ -71,8 +72,8 @@ React.js • Node.js • Express.js • MongoDB • Razorpay • Render
 ---
 
 ## 📫 Contact  
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-profile  
+- 📧 Email: shivuas605@gmail.com 
+- 💼 LinkedIn: www.linkedin.com/in/a-shiva-kumar-b291aa284
 
 ---
 
