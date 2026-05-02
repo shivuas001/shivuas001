@@ -1,58 +1,64 @@
-# 👋 Hi, I'm A SHIVA KUMAR
+# 👋 Hi, I'm A Shiva Kumar  
 
-🚀 3rd-year CSE student passionate about **Full-Stack Web Development**  
-🌱 Currently building a **MERN Stack E-commerce Application**  
-💳 Implemented secure payments using **Razorpay**  
-💡 Strong foundation in **Java**, backend logic, and REST APIs  
-🎯 Actively looking for **Internship opportunities**
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Programming & Markup
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ Deployment & Tools
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+🎓 3rd Year Computer Science Engineering Student  
+💻 Full-Stack Web Developer (MERN Stack)  
+🌱 Passionate about building scalable and secure web applications  
+🎯 Actively seeking Internship Opportunities  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 MERN Stack E-commerce Application
-- JWT-based authentication
-- Product, cart & order management
-- Razorpay payment gateway integration
-- RESTful API design
-
-🔗 *Project link coming soon*
+## 🚀 About Me  
+- 💡 Strong foundation in Java, Backend Development & OOP  
+- 🌐 Experienced in building Full-Stack Applications using MERN  
+- 🔐 Skilled in JWT Authentication & REST API Development  
+- 💳 Integrated secure payment systems using Razorpay  
+- ⚡ Focused on writing clean, efficient, and scalable code  
 
 ---
 
-## 📫 Connect With Me
-- 💼 Open to **Internships**
-- 🔗 Add your **LinkedIn link** here
+## 💻 Tech Stack  
+Java • JavaScript • Python • HTML5 • CSS3 • React.js • Node.js • Express.js • Bootstrap • MongoDB • MySQL • Git • Vercel • Netlify • Render  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shivuas001&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Featured Project  
 
-<!-- Crafted with ❤️ by Shivu -->
+### 🛒 MERN Stack E-commerce Application  
+
+A full-featured e-commerce platform developed using the MERN stack with secure authentication and seamless payment integration.
+
+#### 🔥 Key Features  
+- 🔐 JWT-based Authentication (User Login & Registration)  
+- 🛍️ Product Listing, Cart & Order Management  
+- 💳 Razorpay Payment Gateway Integration  
+- 🧾 Order History & User Dashboard  
+- ⚙️ RESTful API Design  
+- 📦 MongoDB Database Management  
+
+#### 🛠️ Tech Used  
+React.js • Node.js • Express.js • MongoDB • Razorpay • Render  
+
+#### 📌 Highlights  
+- Designed and developed both frontend and backend independently  
+- Deployed backend services using Render  
+- Implemented secure payment workflow  
+- Built scalable and modular backend APIs  
+
+🔒 Source code available upon request  
+
+---
+
+## 📈 Current Focus  
+- 🚀 Improving Full-Stack Development Skills  
+- ⚡ Learning advanced backend concepts & system design  
+- 🌐 Building real-world scalable applications  
+
+---
+
+## 📫 Contact  
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: your-linkedin-profile  
+
+---
+
+⭐ Always learning, building, and growing as a developer
