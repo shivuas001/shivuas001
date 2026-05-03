@@ -18,8 +18,6 @@
 
 ## 💻 Tech Stack  
 
-## 💻 Tech Stack  
-
 ![Tech Stack](https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,bootstrap,mongodb,mysql,git,docker,vercel,netlify,render)
 
 ---
